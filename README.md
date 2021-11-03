@@ -6,7 +6,7 @@ Devices & Software list:
 * PC
 * TouchDesigner (https://derivative.ca/)
 
-For Computer vision (python): 
+Computer Vision (python): 
 Facial expression model was trained by using machine learning. 
 The data was used to recognize facial expression.
 
