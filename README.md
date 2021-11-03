@@ -1,4 +1,4 @@
-The Goal of this project was to use computer vision to recognise human facial expression (happy/neutral/sad/angry) and generate real time animated representation of that expression.
+The Goal of this project was to use computer vision to recognize human facial expression (happy/neutral/sad/angry) and generate real time animated representation of that expression.
 This animation imitates facial expression in real time.
 
 Devices & Software list:
