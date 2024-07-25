@@ -11,3 +11,5 @@ Facial expression model was trained by using machine learning.
 The data was used to recognize facial expression.
 
 Detected expression data is sent to Touchdesigner to generate animated representation of that expression.
+
+Update in progress..
