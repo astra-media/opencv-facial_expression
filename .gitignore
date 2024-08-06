@@ -1,0 +1,3 @@
+recogniser_trainer/__pycache__/
+recogniser_trainer/dataset/
+recogniser_trainer/trained_emoclassifier.xml
