@@ -24,6 +24,7 @@ facedict = {}
 emotions = ["angry", "happy", "sad", "neutral"]
 
 facePosition = ''
+facesForPrediction = 8
 
 def crop_face(clahe_image, face):
     for (x, y, w, h) in face:
@@ -115,9 +116,9 @@ else:
 
     while 1:
 
-        if len(facedict) <= 0:
+        if len(facedict) < facesForPrediction:
             detect_face()
-        elif(len(facedict) == 1):
+        elif(len(facedict) >= facesForPrediction):
             recognize_emotion()
             time.sleep(.5)
 
